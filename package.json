@@ -1,0 +1,16 @@
+{
+  "name": "university_notice_update",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.9",
+    "puppeteer": "^9.1.1",
+    "require": "^2.4.20"
+  }
+}
