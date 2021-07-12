@@ -5,7 +5,11 @@ I created an automation project to automatically fetch new notices on Graphic Er
 Firstly Fork this repo
 Than clone it using following command
       
-        git clone https://github.com/vaibhavbharti/GEU_Notice_Update/
+    git clone https://github.com/vaibhavbharti/GEU_Notice_Update/
+    
+ To install all the dependencies use the command
+ 
+    npm install 
         
 Change FROM_EMAIL with your gmail address in script.js file.
 Change PASSSWROD with your password.
