@@ -2,7 +2,12 @@
 I created an automation project to automatically fetch new notices on Graphic Era University and mail them to me.
 
 # Getting Started
-Change FROM_EMAIL with your gmail address.
+Firstly Fork this repo
+Than clone it using following command
+      
+        git clone https://github.com/vaibhavbharti/GEU_Notice_Update/
+        
+Change FROM_EMAIL with your gmail address in script.js file.
 Change PASSSWROD with your password.
 
 # Contribuition
