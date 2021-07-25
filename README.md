@@ -10,6 +10,10 @@ Than clone it using following command
  To install all the dependencies use the command
  
     npm install 
+  
+ 
+   Change FROM_EMAIL with your gmail address.
+   Change PASSSWROD with your password.
         
 Change FROM_EMAIL with your gmail address in script.js file.
 Change PASSSWROD with your password.
